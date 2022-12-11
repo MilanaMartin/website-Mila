@@ -1,0 +1,36 @@
+body {background-color: #93AA99;
+  }
+h1 {
+    font-size: 32px; 
+    color: #554928;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Playfair Display', serif;
+}
+h2 {
+    font-size: 28px;
+    color: #554928;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Playfair Display', serif;
+}
+
+p{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Code Pro', monospace;
+
+}
+
+li{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Code Pro', monospace;
+
+}
+.picture {
+    width: 550px;
+    background-color:#FFFFDD ;
+    padding: 10px;
+}
+
